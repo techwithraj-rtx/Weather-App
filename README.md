@@ -68,7 +68,7 @@ To use your own API key:
 Example:
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+const apiKey = "cf33962732f84e44976112424262806";
 ```
 
 ---
